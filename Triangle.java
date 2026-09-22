@@ -8,7 +8,7 @@ public class Triangle extends GeometricObject {
     public Triangle() {
     }
 
-    // Constructor creates a triangle with specified sides
+    
     public Triangle(double side1, double side2, double side3) {
         this.side1 = side1;
         this.side2 = side2;
